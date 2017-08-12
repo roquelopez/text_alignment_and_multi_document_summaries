@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Anotacao [
+<!ELEMENT Anotation ( R+ ) >
+<!ELEMENT R ( RELATION ) >
+<!ATTLIST R SDID ( D1_C12_Folha.txt.seg | D2_C12_Estadao.txt.seg | D3_C12_GPovo.txt.seg ) #REQUIRED >
+<!ATTLIST R SSENT ( 1 | 10 | 13 | 15 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 ) #REQUIRED >
+<!ATTLIST R TDID ( D1_C12_Folha.txt.seg | D2_C12_Estadao.txt.seg | D3_C12_GPovo.txt.seg ) #REQUIRED >
+<!ATTLIST R TSENT ( 1 | 10 | 12 | 15 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 ) #REQUIRED >
+
+<!ELEMENT RELATION EMPTY >
+<!ATTLIST RELATION JUDGE ( Erick-Vinicius | thiago | thiago-lucia ) #REQUIRED >
+<!ATTLIST RELATION TYPE ( Attribution | Contradiction | Elaboration | Follow-up | Historical-background | Identity | Indirect-speech | Overlap | Subsumption | Translation | attribution | elaboration | follow-up | overlap | subsumption ) #REQUIRED >
+] > 
+<Anotation>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="1" TDID="D2_C12_Estadao.txt.seg" TSENT="1">
+		<RELATION TYPE="Attribution" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="1" TDID="D2_C12_Estadao.txt.seg" TSENT="1">
+		<RELATION TYPE="Subsumption" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="1" TDID="D2_C12_Estadao.txt.seg" TSENT="4">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="2" TDID="D2_C12_Estadao.txt.seg" TSENT="2">
+		<RELATION TYPE="Identity" JUDGE="thiago"/>
+	</R>
+	<R SDID="D2_C12_Estadao.txt.seg" SSENT="6" TDID="D1_C12_Folha.txt.seg" TSENT="2">
+		<RELATION TYPE="Follow-up" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="3" TDID="D2_C12_Estadao.txt.seg" TSENT="3">
+		<RELATION TYPE="Identity" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="4" TDID="D2_C12_Estadao.txt.seg" TSENT="1">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="4" TDID="D2_C12_Estadao.txt.seg" TSENT="4">
+		<RELATION TYPE="Identity" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="4" TDID="D2_C12_Estadao.txt.seg" TSENT="6">
+		<RELATION TYPE="Contradiction" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="5" TDID="D2_C12_Estadao.txt.seg" TSENT="5">
+		<RELATION TYPE="Identity" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="6" TDID="D2_C12_Estadao.txt.seg" TSENT="2">
+		<RELATION TYPE="Follow-up" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="6" TDID="D2_C12_Estadao.txt.seg" TSENT="4">
+		<RELATION TYPE="Contradiction" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="6" TDID="D2_C12_Estadao.txt.seg" TSENT="6">
+		<RELATION TYPE="Identity" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="7" TDID="D2_C12_Estadao.txt.seg" TSENT="7">
+		<RELATION TYPE="Identity" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="8" TDID="D2_C12_Estadao.txt.seg" TSENT="8">
+		<RELATION TYPE="Identity" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="9" TDID="D2_C12_Estadao.txt.seg" TSENT="9">
+		<RELATION TYPE="Identity" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="10" TDID="D2_C12_Estadao.txt.seg" TSENT="10">
+		<RELATION TYPE="Identity" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="1" TDID="D3_C12_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="Overlap" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="1" TDID="D3_C12_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="Attribution" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="1" TDID="D3_C12_GPovo.txt.seg" TSENT="2">
+		<RELATION TYPE="Translation" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D3_C12_GPovo.txt.seg" SSENT="2" TDID="D1_C12_Folha.txt.seg" TSENT="1">
+		<RELATION TYPE="Elaboration" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D3_C12_GPovo.txt.seg" SSENT="6" TDID="D1_C12_Folha.txt.seg" TSENT="1">
+		<RELATION TYPE="Elaboration" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="2" TDID="D3_C12_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="Overlap" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="2" TDID="D3_C12_GPovo.txt.seg" TSENT="3">
+		<RELATION TYPE="Overlap" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D3_C12_GPovo.txt.seg" SSENT="13" TDID="D1_C12_Folha.txt.seg" TSENT="2">
+		<RELATION TYPE="Elaboration" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D3_C12_GPovo.txt.seg" SSENT="2" TDID="D1_C12_Folha.txt.seg" TSENT="3">
+		<RELATION TYPE="Attribution" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="3" TDID="D3_C12_GPovo.txt.seg" TSENT="2">
+		<RELATION TYPE="Subsumption" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="3" TDID="D3_C12_GPovo.txt.seg" TSENT="10">
+		<RELATION TYPE="Overlap" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="4" TDID="D3_C12_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="Follow-up" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D3_C12_GPovo.txt.seg" SSENT="6" TDID="D1_C12_Folha.txt.seg" TSENT="4">
+		<RELATION TYPE="Elaboration" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="4" TDID="D3_C12_GPovo.txt.seg" TSENT="7">
+		<RELATION TYPE="Subsumption" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="5" TDID="D3_C12_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="Follow-up" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="5" TDID="D3_C12_GPovo.txt.seg" TSENT="8">
+		<RELATION TYPE="Subsumption" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="6" TDID="D3_C12_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="Contradiction" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="7" TDID="D3_C12_GPovo.txt.seg" TSENT="3">
+		<RELATION TYPE="Overlap" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D3_C12_GPovo.txt.seg" SSENT="4" TDID="D1_C12_Folha.txt.seg" TSENT="7">
+		<RELATION TYPE="Follow-up" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="8" TDID="D3_C12_GPovo.txt.seg" TSENT="4">
+		<RELATION TYPE="Subsumption" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="9" TDID="D3_C12_GPovo.txt.seg" TSENT="4">
+		<RELATION TYPE="Follow-up" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="9" TDID="D3_C12_GPovo.txt.seg" TSENT="5">
+		<RELATION TYPE="Follow-up" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D1_C12_Folha.txt.seg" SSENT="9" TDID="D3_C12_GPovo.txt.seg" TSENT="12">
+		<RELATION TYPE="Overlap" JUDGE="thiago-lucia"/>
+	</R>
+	<R SDID="D2_C12_Estadao.txt.seg" SSENT="1" TDID="D3_C12_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="Overlap" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D2_C12_Estadao.txt.seg" SSENT="2" TDID="D3_C12_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="Overlap" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D2_C12_Estadao.txt.seg" SSENT="2" TDID="D3_C12_GPovo.txt.seg" TSENT="3">
+		<RELATION TYPE="Follow-up" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D2_C12_Estadao.txt.seg" SSENT="3" TDID="D3_C12_GPovo.txt.seg" TSENT="2">
+		<RELATION TYPE="Overlap" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D3_C12_GPovo.txt.seg" SSENT="2" TDID="D2_C12_Estadao.txt.seg" TSENT="3">
+		<RELATION TYPE="attribution" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D2_C12_Estadao.txt.seg" SSENT="3" TDID="D3_C12_GPovo.txt.seg" TSENT="10">
+		<RELATION TYPE="overlap" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D2_C12_Estadao.txt.seg" SSENT="4" TDID="D3_C12_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="follow-up" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D3_C12_GPovo.txt.seg" SSENT="6" TDID="D2_C12_Estadao.txt.seg" TSENT="4">
+		<RELATION TYPE="Elaboration" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D2_C12_Estadao.txt.seg" SSENT="4" TDID="D3_C12_GPovo.txt.seg" TSENT="7">
+		<RELATION TYPE="Subsumption" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D3_C12_GPovo.txt.seg" SSENT="7" TDID="D2_C12_Estadao.txt.seg" TSENT="4">
+		<RELATION TYPE="Indirect-speech" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D2_C12_Estadao.txt.seg" SSENT="5" TDID="D3_C12_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="follow-up" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D3_C12_GPovo.txt.seg" SSENT="8" TDID="D2_C12_Estadao.txt.seg" TSENT="5">
+		<RELATION TYPE="Indirect-speech" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D2_C12_Estadao.txt.seg" SSENT="5" TDID="D3_C12_GPovo.txt.seg" TSENT="8">
+		<RELATION TYPE="subsumption" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D2_C12_Estadao.txt.seg" SSENT="6" TDID="D3_C12_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="follow-up" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D2_C12_Estadao.txt.seg" SSENT="7" TDID="D3_C12_GPovo.txt.seg" TSENT="3">
+		<RELATION TYPE="overlap" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D3_C12_GPovo.txt.seg" SSENT="4" TDID="D2_C12_Estadao.txt.seg" TSENT="7">
+		<RELATION TYPE="follow-up" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D2_C12_Estadao.txt.seg" SSENT="8" TDID="D3_C12_GPovo.txt.seg" TSENT="4">
+		<RELATION TYPE="Subsumption" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D3_C12_GPovo.txt.seg" SSENT="15" TDID="D2_C12_Estadao.txt.seg" TSENT="8">
+		<RELATION TYPE="Historical-background" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D2_C12_Estadao.txt.seg" SSENT="8" TDID="D3_C12_GPovo.txt.seg" TSENT="15">
+		<RELATION TYPE="overlap" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D2_C12_Estadao.txt.seg" SSENT="9" TDID="D3_C12_GPovo.txt.seg" TSENT="3">
+		<RELATION TYPE="follow-up" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D2_C12_Estadao.txt.seg" SSENT="9" TDID="D3_C12_GPovo.txt.seg" TSENT="4">
+		<RELATION TYPE="follow-up" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D3_C12_GPovo.txt.seg" SSENT="5" TDID="D2_C12_Estadao.txt.seg" TSENT="9">
+		<RELATION TYPE="elaboration" JUDGE="Erick-Vinicius"/>
+	</R>
+	<R SDID="D2_C12_Estadao.txt.seg" SSENT="9" TDID="D3_C12_GPovo.txt.seg" TSENT="12">
+		<RELATION TYPE="overlap" JUDGE="Erick-Vinicius"/>
+	</R>
+</Anotation>

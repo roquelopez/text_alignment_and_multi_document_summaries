@@ -1,0 +1,66 @@
+<align SENT="1">
+	<DOC name="D1_C36_Folha.txt.seg" SENT="1" TYPE="parcial/neutro" JUDGE="veronica/veronica"/>
+	<DOC name="D3_C36_OGlobo.txt.seg" SENT="1" TYPE="parcial/neutro" JUDGE="veronica/veronica"/>
+	<DOC name="D3_C36_OGlobo.txt.seg" SENT="2" TYPE="parcial/neutro" JUDGE="veronica/veronica"/>
+	<DOC name="D4_C36_JB.txt.seg" SENT="1" TYPE="parcial/neutro-especificacao" JUDGE="veronica/veronica"/>
+</align>
+
+<align SENT="2">
+	<DOC name="D1_C36_Folha.txt.seg" SENT="2" TYPE="igual/neutro" JUDGE="veronica/veronica"/>
+	<DOC name="D3_C36_OGlobo.txt.seg" SENT="3" TYPE="parcial/neutro" JUDGE="veronica/veronica"/>
+	<DOC name="D4_C36_JB.txt.seg" SENT="2" TYPE="parcial/neutro" JUDGE="veronica/veronica"/>
+</align>
+
+<align SENT="3">
+	<DOC name="D3_C36_OGlobo.txt.seg" SENT="4" TYPE="igual/neutro" JUDGE="veronica/veronica"/>
+</align>
+
+<align SENT="4">
+	<DOC name="D3_C36_OGlobo.txt.seg" SENT="5" TYPE="parcial/neutro" JUDGE="veronica/veronica"/>
+</align>
+
+<align SENT="5">
+	<DOC name="D3_C36_OGlobo.txt.seg" SENT="6" TYPE="igual/neutro" JUDGE="veronica/veronica"/>
+</align>
+
+<align SENT="6">
+	<DOC name="D3_C36_OGlobo.txt.seg" SENT="7" TYPE="igual/neutro" JUDGE="veronica/veronica"/>
+</align>
+
+<align SENT="7">
+	<DOC name="D3_C36_OGlobo.txt.seg" SENT="8" TYPE="igual/neutro" JUDGE="veronica/veronica"/>
+</align>
+
+<align SENT="8">
+	<DOC name="D3_C36_OGlobo.txt.seg" SENT="9" TYPE="parcial/neutro" JUDGE="veronica/veronica"/>
+</align>
+
+<align SENT="9">
+	<DOC name="D1_C36_Folha.txt.seg" SENT="6" TYPE="parcial/neutro" JUDGE="veronica/veronica"/>
+	<DOC name="D3_C36_OGlobo.txt.seg" SENT="10" TYPE="igual/neutro" JUDGE="veronica/veronica"/>
+	<DOC name="D4_C36_JB.txt.seg" SENT="3" TYPE="parcial/neutro" JUDGE="veronica/veronica"/>
+</align>
+
+<align SENT="10">
+	<DOC name="D3_C36_OGlobo.txt.seg" SENT="11" TYPE="igual/neutro" JUDGE="veronica/veronica"/>
+</align>
+
+<align SENT="11">
+	<DOC name="D1_C36_Folha.txt.seg" SENT="18" TYPE="parcial/neutro" JUDGE="veronica/veronica"/>
+	<DOC name="D3_C36_OGlobo.txt.seg" SENT="12" TYPE="igual/neutro" JUDGE="veronica/veronica"/>
+	<DOC name="D4_C36_JB.txt.seg" SENT="21" TYPE="parcial/neutro-contradicao" JUDGE="veronica/veronica"/>
+</align>
+
+<align SENT="12">
+	<DOC name="D3_C36_OGlobo.txt.seg" SENT="16" TYPE="igual/neutro" JUDGE="veronica/veronica"/>
+</align>
+
+<align SENT="13">
+	<DOC name="D1_C36_Folha.txt.seg" SENT="16" TYPE="parcial/neutro-especificacao" JUDGE="veronica/veronica"/>
+	<DOC name="D3_C36_OGlobo.txt.seg" SENT="19" TYPE="igual/neutro" JUDGE="veronica/veronica"/>
+</align>
+
+<align SENT="14">
+	<DOC name="D1_C36_Folha.txt.seg" SENT="17" TYPE="parcial/neutro" JUDGE="veronica/veronica"/>
+	<DOC name="D3_C36_OGlobo.txt.seg" SENT="20" TYPE="igual/neutro" JUDGE="veronica/veronica"/>
+</align>

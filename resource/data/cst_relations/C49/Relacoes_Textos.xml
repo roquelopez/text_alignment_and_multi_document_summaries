@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Anotacao [
+<!ELEMENT Anotation ( R+ ) >
+
+<!ELEMENT R ( RELATION ) >
+<!ATTLIST R SDID ( D1_C49_Folha.txt.seg | D3_C49_OGlobo.txt.seg | D4_C49_JB.txt.seg ) #REQUIRED >
+<!ATTLIST R SSENT NMTOKEN #REQUIRED >
+<!ATTLIST R TDID ( D1_C49_Folha.txt.seg | D3_C49_OGlobo.txt.seg | D4_C49_JB.txt.seg ) #REQUIRED >
+<!ATTLIST R TSENT NMTOKEN #REQUIRED >
+
+<!ELEMENT RELATION EMPTY >
+<!ATTLIST RELATION JUDGE ( Erick | Lucia | thiago ) #REQUIRED >
+<!ATTLIST RELATION TYPE ( Attribution | Elaboration | Equivalence | Follow-up | Identity | Overlap | Subsumption ) #REQUIRED >
+] > 
+<Anotation>
+	<R SDID="D1_C49_Folha.txt.seg" SSENT="1" TDID="D3_C49_OGlobo.txt.seg" TSENT="1">
+		<RELATION TYPE="Overlap" JUDGE="Erick"/>
+	</R>
+	<R SDID="D1_C49_Folha.txt.seg" SSENT="1" TDID="D3_C49_OGlobo.txt.seg" TSENT="5">
+		<RELATION TYPE="Overlap" JUDGE="Erick"/>
+	</R>
+	<R SDID="D1_C49_Folha.txt.seg" SSENT="2" TDID="D3_C49_OGlobo.txt.seg" TSENT="5">
+		<RELATION TYPE="Overlap" JUDGE="Erick"/>
+	</R>
+	<R SDID="D1_C49_Folha.txt.seg" SSENT="2" TDID="D3_C49_OGlobo.txt.seg" TSENT="6">
+		<RELATION TYPE="Subsumption" JUDGE="Erick"/>
+	</R>
+	<R SDID="D1_C49_Folha.txt.seg" SSENT="2" TDID="D3_C49_OGlobo.txt.seg" TSENT="6">
+		<RELATION TYPE="Attribution" JUDGE="Erick"/>
+	</R>
+	<R SDID="D1_C49_Folha.txt.seg" SSENT="4" TDID="D3_C49_OGlobo.txt.seg" TSENT="8">
+		<RELATION TYPE="Subsumption" JUDGE="Erick"/>
+	</R>
+	<R SDID="D1_C49_Folha.txt.seg" SSENT="6" TDID="D3_C49_OGlobo.txt.seg" TSENT="7">
+		<RELATION TYPE="Elaboration" JUDGE="Erick"/>
+	</R>
+	<R SDID="D1_C49_Folha.txt.seg" SSENT="7" TDID="D3_C49_OGlobo.txt.seg" TSENT="6">
+		<RELATION TYPE="Elaboration" JUDGE="Erick"/>
+	</R>
+	<R SDID="D1_C49_Folha.txt.seg" SSENT="1" TDID="D4_C49_JB.txt.seg" TSENT="1">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D4_C49_JB.txt.seg" SSENT="5" TDID="D1_C49_Folha.txt.seg" TSENT="1">
+		<RELATION TYPE="Elaboration" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C49_Folha.txt.seg" SSENT="2" TDID="D4_C49_JB.txt.seg" TSENT="5">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C49_Folha.txt.seg" SSENT="2" TDID="D4_C49_JB.txt.seg" TSENT="6">
+		<RELATION TYPE="Subsumption" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C49_Folha.txt.seg" SSENT="4" TDID="D4_C49_JB.txt.seg" TSENT="8">
+		<RELATION TYPE="Subsumption" JUDGE="thiago"/>
+	</R>
+	<R SDID="D4_C49_JB.txt.seg" SSENT="1" TDID="D3_C49_OGlobo.txt.seg" TSENT="1">
+		<RELATION TYPE="Subsumption" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D4_C49_JB.txt.seg" SSENT="6" TDID="D3_C49_OGlobo.txt.seg" TSENT="1">
+		<RELATION TYPE="Follow-up" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D3_C49_OGlobo.txt.seg" SSENT="2" TDID="D4_C49_JB.txt.seg" TSENT="2">
+		<RELATION TYPE="Equivalence" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D3_C49_OGlobo.txt.seg" SSENT="3" TDID="D4_C49_JB.txt.seg" TSENT="3">
+		<RELATION TYPE="Identity" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D3_C49_OGlobo.txt.seg" SSENT="4" TDID="D4_C49_JB.txt.seg" TSENT="4">
+		<RELATION TYPE="Identity" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D3_C49_OGlobo.txt.seg" SSENT="5" TDID="D4_C49_JB.txt.seg" TSENT="5">
+		<RELATION TYPE="Identity" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D3_C49_OGlobo.txt.seg" SSENT="6" TDID="D4_C49_JB.txt.seg" TSENT="6">
+		<RELATION TYPE="Equivalence" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D3_C49_OGlobo.txt.seg" SSENT="7" TDID="D4_C49_JB.txt.seg" TSENT="7">
+		<RELATION TYPE="Identity" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D3_C49_OGlobo.txt.seg" SSENT="8" TDID="D4_C49_JB.txt.seg" TSENT="8">
+		<RELATION TYPE="Equivalence" JUDGE="Lucia"/>
+	</R>
+</Anotation>

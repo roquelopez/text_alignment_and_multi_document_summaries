@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Anotacao [
+<!ELEMENT Anotation ( R+ ) >
+
+<!ELEMENT R ( RELATION ) >
+<!ATTLIST R SDID ( D1_C35_Folha.txt.seg | D4_C35_JB.txt.seg | D5_C35_GPovo.txt.seg ) #REQUIRED >
+<!ATTLIST R SSENT NMTOKEN #REQUIRED >
+<!ATTLIST R TDID ( D1_C35_Folha.txt.seg | D4_C35_JB.txt.seg | D5_C35_GPovo.txt.seg ) #REQUIRED >
+<!ATTLIST R TSENT ( 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 ) #REQUIRED >
+
+<!ELEMENT RELATION EMPTY >
+<!ATTLIST RELATION JUDGE ( Erick | Lucia | thiago ) #REQUIRED >
+<!ATTLIST RELATION TYPE ( Attribution | Elaboration | Follow-up | Historical-background | Overlap | Subsumption ) #REQUIRED >
+] >
+<Anotation>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="1" TDID="D4_C35_JB.txt.seg" TSENT="1">
+		<RELATION TYPE="Overlap" JUDGE="Erick"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="1" TDID="D4_C35_JB.txt.seg" TSENT="2">
+		<RELATION TYPE="Overlap" JUDGE="Erick"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="1" TDID="D4_C35_JB.txt.seg" TSENT="3">
+		<RELATION TYPE="Overlap" JUDGE="Erick"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="3" TDID="D4_C35_JB.txt.seg" TSENT="1">
+		<RELATION TYPE="Elaboration" JUDGE="Erick"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="4" TDID="D4_C35_JB.txt.seg" TSENT="3">
+		<RELATION TYPE="Elaboration" JUDGE="Erick"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="5" TDID="D4_C35_JB.txt.seg" TSENT="2">
+		<RELATION TYPE="Follow-up" JUDGE="Erick"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="6" TDID="D4_C35_JB.txt.seg" TSENT="2">
+		<RELATION TYPE="Elaboration" JUDGE="Erick"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="11" TDID="D4_C35_JB.txt.seg" TSENT="1">
+		<RELATION TYPE="Elaboration" JUDGE="Erick"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="14" TDID="D4_C35_JB.txt.seg" TSENT="3">
+		<RELATION TYPE="Follow-up" JUDGE="Erick"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="1" TDID="D5_C35_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="1" TDID="D5_C35_GPovo.txt.seg" TSENT="2">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="4" TDID="D5_C35_GPovo.txt.seg" TSENT="4">
+		<RELATION TYPE="Subsumption" JUDGE="thiago"/>
+	</R>
+	<R SDID="D5_C35_GPovo.txt.seg" SSENT="7" TDID="D1_C35_Folha.txt.seg" TSENT="4">
+		<RELATION TYPE="Historical-background" JUDGE="thiago"/>
+	</R>
+	<R SDID="D5_C35_GPovo.txt.seg" SSENT="7" TDID="D1_C35_Folha.txt.seg" TSENT="5">
+		<RELATION TYPE="Historical-background" JUDGE="thiago"/>
+	</R>
+	<R SDID="D5_C35_GPovo.txt.seg" SSENT="7" TDID="D1_C35_Folha.txt.seg" TSENT="6">
+		<RELATION TYPE="Historical-background" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="6" TDID="D5_C35_GPovo.txt.seg" TSENT="9">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="8" TDID="D5_C35_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="Historical-background" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="8" TDID="D5_C35_GPovo.txt.seg" TSENT="7">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D5_C35_GPovo.txt.seg" SSENT="9" TDID="D1_C35_Folha.txt.seg" TSENT="8">
+		<RELATION TYPE="Attribution" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="8" TDID="D5_C35_GPovo.txt.seg" TSENT="9">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="9" TDID="D5_C35_GPovo.txt.seg" TSENT="7">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="10" TDID="D5_C35_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="Historical-background" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="12" TDID="D5_C35_GPovo.txt.seg" TSENT="5">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="15" TDID="D5_C35_GPovo.txt.seg" TSENT="2">
+		<RELATION TYPE="Historical-background" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C35_Folha.txt.seg" SSENT="15" TDID="D5_C35_GPovo.txt.seg" TSENT="3">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D5_C35_GPovo.txt.seg" SSENT="1" TDID="D4_C35_JB.txt.seg" TSENT="1">
+		<RELATION TYPE="Elaboration" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D4_C35_JB.txt.seg" SSENT="1" TDID="D5_C35_GPovo.txt.seg" TSENT="2">
+		<RELATION TYPE="Overlap" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D5_C35_GPovo.txt.seg" SSENT="1" TDID="D4_C35_JB.txt.seg" TSENT="2">
+		<RELATION TYPE="Subsumption" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D5_C35_GPovo.txt.seg" SSENT="3" TDID="D4_C35_JB.txt.seg" TSENT="2">
+		<RELATION TYPE="Historical-background" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D5_C35_GPovo.txt.seg" SSENT="8" TDID="D4_C35_JB.txt.seg" TSENT="2">
+		<RELATION TYPE="Elaboration" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D4_C35_JB.txt.seg" SSENT="3" TDID="D5_C35_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="Elaboration" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D5_C35_GPovo.txt.seg" SSENT="7" TDID="D4_C35_JB.txt.seg" TSENT="3">
+		<RELATION TYPE="Historical-background" JUDGE="Lucia"/>
+	</R>
+</Anotation>

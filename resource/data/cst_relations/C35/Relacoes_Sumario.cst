@@ -1,0 +1,282 @@
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="1" TDID="C35_sumario_humano.txt.seg" TSENT="2">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="2" TDID="D5_C35_GPovo.txt.seg" TSENT="1">
+<RELATION TYPE="elaboration" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="1" TDID="C35_sumario_humano.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="3" TDID="D5_C35_GPovo.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="2" TDID="C35_sumario_humano.txt.seg" TSENT="1">
+<RELATION TYPE="elaboration" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="1" TDID="D5_C35_GPovo.txt.seg" TSENT="2">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="3" TDID="C35_sumario_humano.txt.seg" TSENT="6">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="6" TDID="D5_C35_GPovo.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="5" TDID="C35_sumario_humano.txt.seg" TSENT="7">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="7" TDID="D5_C35_GPovo.txt.seg" TSENT="5">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="6" TDID="C35_sumario_humano.txt.seg" TSENT="7">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="7" TDID="D5_C35_GPovo.txt.seg" TSENT="6">
+<RELATION TYPE="subsumption" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="9" TDID="C35_sumario_humano.txt.seg" TSENT="7">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="7" TDID="D5_C35_GPovo.txt.seg" TSENT="9">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="1" TDID="D4_C35_JB.txt.seg" TSENT="2">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C35_JB.txt.seg" SSENT="2" TDID="D5_C35_GPovo.txt.seg" TSENT="1">
+<RELATION TYPE="elaboration" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="1" TDID="D4_C35_JB.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C35_JB.txt.seg" SSENT="3" TDID="D5_C35_GPovo.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="2" TDID="D4_C35_JB.txt.seg" TSENT="1">
+<RELATION TYPE="elaboration" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C35_JB.txt.seg" SSENT="1" TDID="D5_C35_GPovo.txt.seg" TSENT="2">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="1" TDID="D1_C35_Folha.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="1" TDID="D5_C35_GPovo.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="1" TDID="D1_C35_Folha.txt.seg" TSENT="2">
+<RELATION TYPE="elaboration" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="2" TDID="D5_C35_GPovo.txt.seg" TSENT="1">
+<RELATION TYPE="elaboration" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="2" TDID="D1_C35_Folha.txt.seg" TSENT="1">
+<RELATION TYPE="elaboration" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="1" TDID="D5_C35_GPovo.txt.seg" TSENT="2">
+<RELATION TYPE="elaboration" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="3" TDID="D1_C35_Folha.txt.seg" TSENT="15">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="15" TDID="D5_C35_GPovo.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="4" TDID="D1_C35_Folha.txt.seg" TSENT="4">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="4" TDID="D5_C35_GPovo.txt.seg" TSENT="4">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="4" TDID="D1_C35_Folha.txt.seg" TSENT="15">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="15" TDID="D5_C35_GPovo.txt.seg" TSENT="4">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="5" TDID="D1_C35_Folha.txt.seg" TSENT="11">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="11" TDID="D5_C35_GPovo.txt.seg" TSENT="5">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="5" TDID="D1_C35_Folha.txt.seg" TSENT="12">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="12" TDID="D5_C35_GPovo.txt.seg" TSENT="5">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="7" TDID="D1_C35_Folha.txt.seg" TSENT="6">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="6" TDID="D5_C35_GPovo.txt.seg" TSENT="7">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="7" TDID="D1_C35_Folha.txt.seg" TSENT="8">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="8" TDID="D5_C35_GPovo.txt.seg" TSENT="7">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="7" TDID="D1_C35_Folha.txt.seg" TSENT="9">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="9" TDID="D5_C35_GPovo.txt.seg" TSENT="7">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="7" TDID="D1_C35_Folha.txt.seg" TSENT="13">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="13" TDID="D5_C35_GPovo.txt.seg" TSENT="7">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C35_GPovo.txt.seg" SSENT="9" TDID="D1_C35_Folha.txt.seg" TSENT="8">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="8" TDID="D5_C35_GPovo.txt.seg" TSENT="9">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="1" TDID="D4_C35_JB.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C35_JB.txt.seg" SSENT="1" TDID="C35_sumario_humano.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="2" TDID="D4_C35_JB.txt.seg" TSENT="2">
+<RELATION TYPE="elaboration" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C35_JB.txt.seg" SSENT="2" TDID="C35_sumario_humano.txt.seg" TSENT="2">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="3" TDID="D4_C35_JB.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C35_JB.txt.seg" SSENT="3" TDID="C35_sumario_humano.txt.seg" TSENT="3">
+<RELATION TYPE="equivalence" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="4" TDID="D4_C35_JB.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C35_JB.txt.seg" SSENT="3" TDID="C35_sumario_humano.txt.seg" TSENT="4">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="1" TDID="D1_C35_Folha.txt.seg" TSENT="11">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="11" TDID="C35_sumario_humano.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="2" TDID="D1_C35_Folha.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="1" TDID="C35_sumario_humano.txt.seg" TSENT="2">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="2" TDID="D1_C35_Folha.txt.seg" TSENT="15">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="15" TDID="C35_sumario_humano.txt.seg" TSENT="2">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="3" TDID="D1_C35_Folha.txt.seg" TSENT="1">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="1" TDID="C35_sumario_humano.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="3" TDID="D1_C35_Folha.txt.seg" TSENT="4">
+<RELATION TYPE="equivalence" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="4" TDID="C35_sumario_humano.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="4" TDID="D1_C35_Folha.txt.seg" TSENT="10">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="10" TDID="C35_sumario_humano.txt.seg" TSENT="4">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="4" TDID="D1_C35_Folha.txt.seg" TSENT="13">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="13" TDID="C35_sumario_humano.txt.seg" TSENT="4">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="4" TDID="D1_C35_Folha.txt.seg" TSENT="14">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="14" TDID="C35_sumario_humano.txt.seg" TSENT="4">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="4" TDID="D1_C35_Folha.txt.seg" TSENT="17">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="17" TDID="C35_sumario_humano.txt.seg" TSENT="4">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="5" TDID="D1_C35_Folha.txt.seg" TSENT="13">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="13" TDID="C35_sumario_humano.txt.seg" TSENT="5">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="6" TDID="D1_C35_Folha.txt.seg" TSENT="15">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="15" TDID="C35_sumario_humano.txt.seg" TSENT="6">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="6" TDID="D1_C35_Folha.txt.seg" TSENT="16">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="16" TDID="C35_sumario_humano.txt.seg" TSENT="6">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="7" TDID="D1_C35_Folha.txt.seg" TSENT="11">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="11" TDID="C35_sumario_humano.txt.seg" TSENT="7">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C35_sumario_humano.txt.seg" SSENT="7" TDID="D1_C35_Folha.txt.seg" TSENT="12">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="12" TDID="C35_sumario_humano.txt.seg" TSENT="7">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C35_JB.txt.seg" SSENT="1" TDID="D1_C35_Folha.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="1" TDID="D4_C35_JB.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C35_JB.txt.seg" SSENT="2" TDID="D1_C35_Folha.txt.seg" TSENT="1">
+<RELATION TYPE="elaboration" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="1" TDID="D4_C35_JB.txt.seg" TSENT="2">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C35_JB.txt.seg" SSENT="2" TDID="D1_C35_Folha.txt.seg" TSENT="5">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="5" TDID="D4_C35_JB.txt.seg" TSENT="2">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C35_JB.txt.seg" SSENT="2" TDID="D1_C35_Folha.txt.seg" TSENT="6">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="6" TDID="D4_C35_JB.txt.seg" TSENT="2">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C35_JB.txt.seg" SSENT="3" TDID="D1_C35_Folha.txt.seg" TSENT="1">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="1" TDID="D4_C35_JB.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C35_JB.txt.seg" SSENT="3" TDID="D1_C35_Folha.txt.seg" TSENT="4">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C35_Folha.txt.seg" SSENT="4" TDID="D4_C35_JB.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>

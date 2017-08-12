@@ -1,0 +1,492 @@
+<R SDID="D4_C22_JB.txt.seg" SSENT="1" TDID="D5_C22_GPovo.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="1" TDID="D4_C22_JB.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="1" TDID="D5_C22_GPovo.txt.seg" TSENT="8">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="8" TDID="D4_C22_JB.txt.seg" TSENT="1">
+<RELATION TYPE="elaboration" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="4" TDID="D5_C22_GPovo.txt.seg" TSENT="6">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="6" TDID="D4_C22_JB.txt.seg" TSENT="4">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="6" TDID="D5_C22_GPovo.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="3" TDID="D4_C22_JB.txt.seg" TSENT="6">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="6" TDID="D5_C22_GPovo.txt.seg" TSENT="5">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="5" TDID="D4_C22_JB.txt.seg" TSENT="6">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="9" TDID="D5_C22_GPovo.txt.seg" TSENT="1">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="1" TDID="D4_C22_JB.txt.seg" TSENT="9">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="9" TDID="D5_C22_GPovo.txt.seg" TSENT="8">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="8" TDID="D4_C22_JB.txt.seg" TSENT="9">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="9" TDID="D5_C22_GPovo.txt.seg" TSENT="9">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="9" TDID="D4_C22_JB.txt.seg" TSENT="9">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="11" TDID="D5_C22_GPovo.txt.seg" TSENT="10">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="10" TDID="D4_C22_JB.txt.seg" TSENT="11">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="11" TDID="D5_C22_GPovo.txt.seg" TSENT="11">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="11" TDID="D4_C22_JB.txt.seg" TSENT="11">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="12" TDID="D5_C22_GPovo.txt.seg" TSENT="1">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="1" TDID="D4_C22_JB.txt.seg" TSENT="12">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="13" TDID="D5_C22_GPovo.txt.seg" TSENT="11">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="11" TDID="D4_C22_JB.txt.seg" TSENT="13">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="1" TDID="D2_C22_Estadao.txt.seg" TSENT="1">
+<RELATION TYPE="elaboration" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="1" TDID="D4_C22_JB.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="1" TDID="D2_C22_Estadao.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="3" TDID="D4_C22_JB.txt.seg" TSENT="1">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="3" TDID="D2_C22_Estadao.txt.seg" TSENT="2">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="2" TDID="D4_C22_JB.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="3" TDID="D2_C22_Estadao.txt.seg" TSENT="13">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="13" TDID="D4_C22_JB.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="6" TDID="D2_C22_Estadao.txt.seg" TSENT="3">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="3" TDID="D4_C22_JB.txt.seg" TSENT="6">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="6" TDID="D2_C22_Estadao.txt.seg" TSENT="4">
+<RELATION TYPE="equivalence" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="4" TDID="D4_C22_JB.txt.seg" TSENT="6">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="9" TDID="D2_C22_Estadao.txt.seg" TSENT="1">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="1" TDID="D4_C22_JB.txt.seg" TSENT="9">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="9" TDID="D2_C22_Estadao.txt.seg" TSENT="3">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="3" TDID="D4_C22_JB.txt.seg" TSENT="9">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="9" TDID="D2_C22_Estadao.txt.seg" TSENT="7">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="7" TDID="D4_C22_JB.txt.seg" TSENT="9">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="10" TDID="D2_C22_Estadao.txt.seg" TSENT="11">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="11" TDID="D4_C22_JB.txt.seg" TSENT="10">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="11" TDID="D2_C22_Estadao.txt.seg" TSENT="2">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="2" TDID="D4_C22_JB.txt.seg" TSENT="11">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="12" TDID="D2_C22_Estadao.txt.seg" TSENT="9">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="9" TDID="D4_C22_JB.txt.seg" TSENT="12">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="17" TDID="D2_C22_Estadao.txt.seg" TSENT="11">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="11" TDID="D4_C22_JB.txt.seg" TSENT="17">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="18" TDID="D2_C22_Estadao.txt.seg" TSENT="13">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="13" TDID="D4_C22_JB.txt.seg" TSENT="18">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="1" TDID="C22_sumario_humano.txt.seg" TSENT="1">
+<RELATION TYPE="elaboration" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="1" TDID="D4_C22_JB.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="1" TDID="C22_sumario_humano.txt.seg" TSENT="7">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="7" TDID="D4_C22_JB.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="3" TDID="C22_sumario_humano.txt.seg" TSENT="2">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="2" TDID="D4_C22_JB.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="4" TDID="C22_sumario_humano.txt.seg" TSENT="3">
+<RELATION TYPE="equivalence" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="3" TDID="D4_C22_JB.txt.seg" TSENT="4">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="5" TDID="C22_sumario_humano.txt.seg" TSENT="1">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="1" TDID="D4_C22_JB.txt.seg" TSENT="5">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="5" TDID="C22_sumario_humano.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="3" TDID="D4_C22_JB.txt.seg" TSENT="5">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="6" TDID="C22_sumario_humano.txt.seg" TSENT="4">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="4" TDID="D4_C22_JB.txt.seg" TSENT="6">
+<RELATION TYPE="equivalence" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="6" TDID="C22_sumario_humano.txt.seg" TSENT="5">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="5" TDID="D4_C22_JB.txt.seg" TSENT="6">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="11" TDID="C22_sumario_humano.txt.seg" TSENT="6">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="6" TDID="D4_C22_JB.txt.seg" TSENT="11">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="12" TDID="C22_sumario_humano.txt.seg" TSENT="7">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="7" TDID="D4_C22_JB.txt.seg" TSENT="12">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="14" TDID="C22_sumario_humano.txt.seg" TSENT="3">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="3" TDID="D4_C22_JB.txt.seg" TSENT="14">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="15" TDID="C22_sumario_humano.txt.seg" TSENT="7">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="7" TDID="D4_C22_JB.txt.seg" TSENT="15">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="17" TDID="C22_sumario_humano.txt.seg" TSENT="8">
+<RELATION TYPE="subsumption" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="8" TDID="D4_C22_JB.txt.seg" TSENT="17">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="18" TDID="C22_sumario_humano.txt.seg" TSENT="7">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="7" TDID="D4_C22_JB.txt.seg" TSENT="18">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C22_JB.txt.seg" SSENT="18" TDID="C22_sumario_humano.txt.seg" TSENT="8">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="8" TDID="D4_C22_JB.txt.seg" TSENT="18">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="1" TDID="D2_C22_Estadao.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="1" TDID="D5_C22_GPovo.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="1" TDID="D2_C22_Estadao.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="3" TDID="D5_C22_GPovo.txt.seg" TSENT="1">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="1" TDID="D2_C22_Estadao.txt.seg" TSENT="4">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="4" TDID="D5_C22_GPovo.txt.seg" TSENT="1">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="1" TDID="D2_C22_Estadao.txt.seg" TSENT="7">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="7" TDID="D5_C22_GPovo.txt.seg" TSENT="1">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="3" TDID="D2_C22_Estadao.txt.seg" TSENT="4">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="4" TDID="D5_C22_GPovo.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="4" TDID="D2_C22_Estadao.txt.seg" TSENT="13">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="13" TDID="D5_C22_GPovo.txt.seg" TSENT="4">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="5" TDID="D2_C22_Estadao.txt.seg" TSENT="4">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="4" TDID="D5_C22_GPovo.txt.seg" TSENT="5">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="5" TDID="D2_C22_Estadao.txt.seg" TSENT="13">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="13" TDID="D5_C22_GPovo.txt.seg" TSENT="5">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="6" TDID="D2_C22_Estadao.txt.seg" TSENT="4">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="4" TDID="D5_C22_GPovo.txt.seg" TSENT="6">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="6" TDID="D2_C22_Estadao.txt.seg" TSENT="5">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="5" TDID="D5_C22_GPovo.txt.seg" TSENT="6">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="7" TDID="D2_C22_Estadao.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="3" TDID="D5_C22_GPovo.txt.seg" TSENT="7">
+<RELATION TYPE="subsumption" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="8" TDID="D2_C22_Estadao.txt.seg" TSENT="1">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="1" TDID="D5_C22_GPovo.txt.seg" TSENT="8">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="8" TDID="D2_C22_Estadao.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="3" TDID="D5_C22_GPovo.txt.seg" TSENT="8">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="8" TDID="D2_C22_Estadao.txt.seg" TSENT="7">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="7" TDID="D5_C22_GPovo.txt.seg" TSENT="8">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="12" TDID="D2_C22_Estadao.txt.seg" TSENT="15">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="15" TDID="D5_C22_GPovo.txt.seg" TSENT="12">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="1" TDID="C22_sumario_humano.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="1" TDID="D5_C22_GPovo.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="3" TDID="C22_sumario_humano.txt.seg" TSENT="4">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="4" TDID="D5_C22_GPovo.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="3" TDID="C22_sumario_humano.txt.seg" TSENT="5">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="5" TDID="D5_C22_GPovo.txt.seg" TSENT="3">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="4" TDID="C22_sumario_humano.txt.seg" TSENT="2">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="2" TDID="D5_C22_GPovo.txt.seg" TSENT="4">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="5" TDID="C22_sumario_humano.txt.seg" TSENT="2">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="2" TDID="D5_C22_GPovo.txt.seg" TSENT="5">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="5" TDID="C22_sumario_humano.txt.seg" TSENT="4">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="4" TDID="D5_C22_GPovo.txt.seg" TSENT="5">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="6" TDID="C22_sumario_humano.txt.seg" TSENT="3">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="3" TDID="D5_C22_GPovo.txt.seg" TSENT="6">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="7" TDID="C22_sumario_humano.txt.seg" TSENT="4">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="4" TDID="D5_C22_GPovo.txt.seg" TSENT="7">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D5_C22_GPovo.txt.seg" SSENT="8" TDID="C22_sumario_humano.txt.seg" TSENT="9">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="9" TDID="D5_C22_GPovo.txt.seg" TSENT="8">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="1" TDID="C22_sumario_humano.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="1" TDID="D2_C22_Estadao.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="1" TDID="C22_sumario_humano.txt.seg" TSENT="2">
+<RELATION TYPE="subsumption" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="2" TDID="D2_C22_Estadao.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="2" TDID="C22_sumario_humano.txt.seg" TSENT="6">
+<RELATION TYPE="subsumption" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="6" TDID="D2_C22_Estadao.txt.seg" TSENT="2">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="3" TDID="C22_sumario_humano.txt.seg" TSENT="1">
+<RELATION TYPE="elaboration" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="1" TDID="D2_C22_Estadao.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="4" TDID="C22_sumario_humano.txt.seg" TSENT="4">
+<RELATION TYPE="subsumption" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="4" TDID="D2_C22_Estadao.txt.seg" TSENT="4">
+<RELATION TYPE="equivalence" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="4" TDID="C22_sumario_humano.txt.seg" TSENT="5">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="5" TDID="D2_C22_Estadao.txt.seg" TSENT="4">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="5" TDID="C22_sumario_humano.txt.seg" TSENT="5">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="5" TDID="D2_C22_Estadao.txt.seg" TSENT="5">
+<RELATION TYPE="equivalence" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="6" TDID="C22_sumario_humano.txt.seg" TSENT="1">
+<RELATION TYPE="equivalence" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="1" TDID="D2_C22_Estadao.txt.seg" TSENT="6">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="8" TDID="C22_sumario_humano.txt.seg" TSENT="6">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="6" TDID="D2_C22_Estadao.txt.seg" TSENT="8">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="9" TDID="C22_sumario_humano.txt.seg" TSENT="1">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="1" TDID="D2_C22_Estadao.txt.seg" TSENT="9">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="10" TDID="C22_sumario_humano.txt.seg" TSENT="7">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="7" TDID="D2_C22_Estadao.txt.seg" TSENT="10">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="10" TDID="C22_sumario_humano.txt.seg" TSENT="9">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="9" TDID="D2_C22_Estadao.txt.seg" TSENT="10">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="11" TDID="C22_sumario_humano.txt.seg" TSENT="8">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="8" TDID="D2_C22_Estadao.txt.seg" TSENT="11">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="12" TDID="C22_sumario_humano.txt.seg" TSENT="9">
+<RELATION TYPE="subsumption" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="9" TDID="D2_C22_Estadao.txt.seg" TSENT="12">
+<RELATION TYPE="equivalence" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="13" TDID="C22_sumario_humano.txt.seg" TSENT="2">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="2" TDID="D2_C22_Estadao.txt.seg" TSENT="13">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="13" TDID="C22_sumario_humano.txt.seg" TSENT="6">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="6" TDID="D2_C22_Estadao.txt.seg" TSENT="13">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C22_Estadao.txt.seg" SSENT="13" TDID="C22_sumario_humano.txt.seg" TSENT="8">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C22_sumario_humano.txt.seg" SSENT="8" TDID="D2_C22_Estadao.txt.seg" TSENT="13">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>

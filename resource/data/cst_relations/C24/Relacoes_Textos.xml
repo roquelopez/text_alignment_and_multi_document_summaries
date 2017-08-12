@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Anotacao [
+<!ELEMENT Anotation ( R+ ) >
+
+<!ELEMENT R ( RELATION ) >
+<!ATTLIST R SDID ( D2_C24_Estadao.txt.seg | D3_C24_JB.txt.seg | D4_C24_GPovo.txt.seg ) #REQUIRED >
+<!ATTLIST R SSENT NMTOKEN #REQUIRED >
+<!ATTLIST R TDID ( D2_C24_Estadao.txt.seg | D3_C24_JB.txt.seg | D4_C24_GPovo.txt.seg ) #REQUIRED >
+<!ATTLIST R TSENT NMTOKEN #REQUIRED >
+
+<!ELEMENT RELATION EMPTY >
+<!ATTLIST RELATION JUDGE ( Erick | Lucia | thiago ) #REQUIRED >
+<!ATTLIST RELATION TYPE ( Contradiction | Elaboration | Historical-background | Overlap | Subsumption ) #REQUIRED >
+] > 
+<Anotation>
+	<R SDID="D2_C24_Estadao.txt.seg" SSENT="1" TDID="D3_C24_JB.txt.seg" TSENT="1">
+		<RELATION TYPE="Overlap" JUDGE="Erick"/>
+	</R>
+	<R SDID="D2_C24_Estadao.txt.seg" SSENT="2" TDID="D3_C24_JB.txt.seg" TSENT="1">
+		<RELATION TYPE="Overlap" JUDGE="Erick"/>
+	</R>
+	<R SDID="D2_C24_Estadao.txt.seg" SSENT="3" TDID="D3_C24_JB.txt.seg" TSENT="2">
+		<RELATION TYPE="Historical-background" JUDGE="Erick"/>
+	</R>
+	<R SDID="D2_C24_Estadao.txt.seg" SSENT="5" TDID="D3_C24_JB.txt.seg" TSENT="1">
+		<RELATION TYPE="Contradiction" JUDGE="Erick"/>
+	</R>
+	<R SDID="D2_C24_Estadao.txt.seg" SSENT="6" TDID="D3_C24_JB.txt.seg" TSENT="3">
+		<RELATION TYPE="Subsumption" JUDGE="Erick"/>
+	</R>
+	<R SDID="D2_C24_Estadao.txt.seg" SSENT="12" TDID="D3_C24_JB.txt.seg" TSENT="1">
+		<RELATION TYPE="Overlap" JUDGE="Erick"/>
+	</R>
+	<R SDID="D2_C24_Estadao.txt.seg" SSENT="1" TDID="D4_C24_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D2_C24_Estadao.txt.seg" SSENT="2" TDID="D4_C24_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D2_C24_Estadao.txt.seg" SSENT="5" TDID="D4_C24_GPovo.txt.seg" TSENT="4">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D4_C24_GPovo.txt.seg" SSENT="4" TDID="D2_C24_Estadao.txt.seg" TSENT="6">
+		<RELATION TYPE="Subsumption" JUDGE="thiago"/>
+	</R>
+	<R SDID="D4_C24_GPovo.txt.seg" SSENT="5" TDID="D2_C24_Estadao.txt.seg" TSENT="7">
+		<RELATION TYPE="Elaboration" JUDGE="thiago"/>
+	</R>
+	<R SDID="D2_C24_Estadao.txt.seg" SSENT="13" TDID="D4_C24_GPovo.txt.seg" TSENT="3">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D3_C24_JB.txt.seg" SSENT="1" TDID="D4_C24_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="Overlap" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D3_C24_JB.txt.seg" SSENT="1" TDID="D4_C24_GPovo.txt.seg" TSENT="2">
+		<RELATION TYPE="Contradiction" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D4_C24_GPovo.txt.seg" SSENT="3" TDID="D3_C24_JB.txt.seg" TSENT="1">
+		<RELATION TYPE="Elaboration" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D3_C24_JB.txt.seg" SSENT="1" TDID="D4_C24_GPovo.txt.seg" TSENT="4">
+		<RELATION TYPE="Overlap" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D4_C24_GPovo.txt.seg" SSENT="4" TDID="D3_C24_JB.txt.seg" TSENT="3">
+		<RELATION TYPE="Subsumption" JUDGE="Lucia"/>
+	</R>
+</Anotation>

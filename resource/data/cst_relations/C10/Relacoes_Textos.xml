@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Anotacao [
+<!ELEMENT Anotation ( R+ ) >
+
+<!ELEMENT R ( RELATION ) >
+<!ATTLIST R SDID ( D3_C10_OGlobo.txt.seg | D4_C10_JB.txt.seg | D5_C10_GPovo.txt.seg ) #REQUIRED >
+<!ATTLIST R SSENT NMTOKEN #REQUIRED >
+<!ATTLIST R TDID ( D3_C10_OGlobo.txt.seg | D4_C10_JB.txt.seg | D5_C10_GPovo.txt.seg ) #REQUIRED >
+<!ATTLIST R TSENT ( 1 | 11 | 12 | 13 | 15 | 2 | 3 | 4 | 5 | 6 | 7 | 8 ) #REQUIRED >
+
+<!ELEMENT RELATION EMPTY >
+<!ATTLIST RELATION JUDGE ( Erick | Lucia | thiago ) #REQUIRED >
+<!ATTLIST RELATION TYPE ( Elaboration | Follow-up | Historical-background | Identity | Overlap | Subsumption | Translation ) #REQUIRED >
+] > 
+<Anotation>
+	<R SDID="D4_C10_JB.txt.seg" SSENT="1" TDID="D3_C10_OGlobo.txt.seg" TSENT="1">
+		<RELATION TYPE="Subsumption" JUDGE="thiago"/>
+	</R>
+	<R SDID="D4_C10_JB.txt.seg" SSENT="5" TDID="D3_C10_OGlobo.txt.seg" TSENT="1">
+		<RELATION TYPE="Follow-up" JUDGE="thiago"/>
+	</R>
+	<R SDID="D4_C10_JB.txt.seg" SSENT="1" TDID="D3_C10_OGlobo.txt.seg" TSENT="2">
+		<RELATION TYPE="Subsumption" JUDGE="thiago"/>
+	</R>
+	<R SDID="D4_C10_JB.txt.seg" SSENT="4" TDID="D3_C10_OGlobo.txt.seg" TSENT="2">
+		<RELATION TYPE="Follow-up" JUDGE="thiago"/>
+	</R>
+	<R SDID="D4_C10_JB.txt.seg" SSENT="2" TDID="D3_C10_OGlobo.txt.seg" TSENT="3">
+		<RELATION TYPE="Follow-up" JUDGE="thiago"/>
+	</R>
+	<R SDID="D4_C10_JB.txt.seg" SSENT="3" TDID="D3_C10_OGlobo.txt.seg" TSENT="3">
+		<RELATION TYPE="Elaboration" JUDGE="thiago"/>
+	</R>
+	<R SDID="D3_C10_OGlobo.txt.seg" SSENT="4" TDID="D4_C10_JB.txt.seg" TSENT="2">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D4_C10_JB.txt.seg" SSENT="3" TDID="D3_C10_OGlobo.txt.seg" TSENT="5">
+		<RELATION TYPE="Subsumption" JUDGE="thiago"/>
+	</R>
+	<R SDID="D4_C10_JB.txt.seg" SSENT="1" TDID="D3_C10_OGlobo.txt.seg" TSENT="6">
+		<RELATION TYPE="Follow-up" JUDGE="thiago"/>
+	</R>
+	<R SDID="D3_C10_OGlobo.txt.seg" SSENT="6" TDID="D4_C10_JB.txt.seg" TSENT="4">
+		<RELATION TYPE="Identity" JUDGE="thiago"/>
+	</R>
+	<R SDID="D4_C10_JB.txt.seg" SSENT="6" TDID="D3_C10_OGlobo.txt.seg" TSENT="6">
+		<RELATION TYPE="Historical-background" JUDGE="thiago"/>
+	</R>
+	<R SDID="D3_C10_OGlobo.txt.seg" SSENT="1" TDID="D5_C10_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="Subsumption" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="5" TDID="D3_C10_OGlobo.txt.seg" TSENT="1">
+		<RELATION TYPE="Elaboration" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D3_C10_OGlobo.txt.seg" SSENT="1" TDID="D5_C10_GPovo.txt.seg" TSENT="2">
+		<RELATION TYPE="Overlap" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D3_C10_OGlobo.txt.seg" SSENT="2" TDID="D5_C10_GPovo.txt.seg" TSENT="7">
+		<RELATION TYPE="Follow-up" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D3_C10_OGlobo.txt.seg" SSENT="2" TDID="D5_C10_GPovo.txt.seg" TSENT="8">
+		<RELATION TYPE="Follow-up" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D3_C10_OGlobo.txt.seg" SSENT="2" TDID="D5_C10_GPovo.txt.seg" TSENT="11">
+		<RELATION TYPE="Follow-up" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="7" TDID="D3_C10_OGlobo.txt.seg" TSENT="3">
+		<RELATION TYPE="Follow-up" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D3_C10_OGlobo.txt.seg" SSENT="4" TDID="D5_C10_GPovo.txt.seg" TSENT="5">
+		<RELATION TYPE="Elaboration" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="7" TDID="D3_C10_OGlobo.txt.seg" TSENT="4">
+		<RELATION TYPE="Follow-up" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="8" TDID="D3_C10_OGlobo.txt.seg" TSENT="4">
+		<RELATION TYPE="Overlap" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="13" TDID="D3_C10_OGlobo.txt.seg" TSENT="4">
+		<RELATION TYPE="Elaboration" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="5" TDID="D3_C10_OGlobo.txt.seg" TSENT="5">
+		<RELATION TYPE="Elaboration" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D3_C10_OGlobo.txt.seg" SSENT="5" TDID="D5_C10_GPovo.txt.seg" TSENT="6">
+		<RELATION TYPE="Elaboration" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="7" TDID="D3_C10_OGlobo.txt.seg" TSENT="5">
+		<RELATION TYPE="Elaboration" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D4_C10_JB.txt.seg" SSENT="1" TDID="D5_C10_GPovo.txt.seg" TSENT="1">
+		<RELATION TYPE="Subsumption" JUDGE="Erick"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="5" TDID="D4_C10_JB.txt.seg" TSENT="1">
+		<RELATION TYPE="Follow-up" JUDGE="Erick"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="15" TDID="D4_C10_JB.txt.seg" TSENT="1">
+		<RELATION TYPE="Follow-up" JUDGE="Erick"/>
+	</R>
+	<R SDID="D4_C10_JB.txt.seg" SSENT="2" TDID="D5_C10_GPovo.txt.seg" TSENT="11">
+		<RELATION TYPE="Overlap" JUDGE="Erick"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="1" TDID="D4_C10_JB.txt.seg" TSENT="3">
+		<RELATION TYPE="Follow-up" JUDGE="Erick"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="5" TDID="D4_C10_JB.txt.seg" TSENT="3">
+		<RELATION TYPE="Follow-up" JUDGE="Erick"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="6" TDID="D4_C10_JB.txt.seg" TSENT="3">
+		<RELATION TYPE="Follow-up" JUDGE="Erick"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="7" TDID="D4_C10_JB.txt.seg" TSENT="3">
+		<RELATION TYPE="Follow-up" JUDGE="Erick"/>
+	</R>
+	<R SDID="D4_C10_JB.txt.seg" SSENT="3" TDID="D5_C10_GPovo.txt.seg" TSENT="7">
+		<RELATION TYPE="Translation" JUDGE="Erick"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="13" TDID="D4_C10_JB.txt.seg" TSENT="7">
+		<RELATION TYPE="Follow-up" JUDGE="Erick"/>
+	</R>
+	<R SDID="D4_C10_JB.txt.seg" SSENT="10" TDID="D5_C10_GPovo.txt.seg" TSENT="15">
+		<RELATION TYPE="Follow-up" JUDGE="Erick"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="14" TDID="D4_C10_JB.txt.seg" TSENT="11">
+		<RELATION TYPE="Follow-up" JUDGE="Erick"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="15" TDID="D4_C10_JB.txt.seg" TSENT="11">
+		<RELATION TYPE="Follow-up" JUDGE="Erick"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="16" TDID="D4_C10_JB.txt.seg" TSENT="11">
+		<RELATION TYPE="Follow-up" JUDGE="Erick"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="17" TDID="D4_C10_JB.txt.seg" TSENT="12">
+		<RELATION TYPE="Elaboration" JUDGE="Erick"/>
+	</R>
+	<R SDID="D5_C10_GPovo.txt.seg" SSENT="17" TDID="D4_C10_JB.txt.seg" TSENT="13">
+		<RELATION TYPE="Follow-up" JUDGE="Erick"/>
+	</R>
+</Anotation>

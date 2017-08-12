@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Anotacao [
+<!ELEMENT Anotation ( R+ ) >
+
+<!ELEMENT R ( RELATION ) >
+<!ATTLIST R SDID ( D1_C19_Folha.txt.seg | D2_C19_Estadao.txt.seg ) #REQUIRED >
+<!ATTLIST R SSENT NMTOKEN #REQUIRED >
+<!ATTLIST R TDID ( D1_C19_Folha.txt.seg | D2_C19_Estadao.txt.seg ) #REQUIRED >
+<!ATTLIST R TSENT ( 1 | 2 | 3 | 5 ) #REQUIRED >
+
+<!ELEMENT RELATION EMPTY >
+<!ATTLIST RELATION JUDGE NMTOKEN #FIXED "todos" >
+<!ATTLIST RELATION TYPE ( Elaboration | Follow-up | Overlap ) #REQUIRED >
+] > 
+<Anotation>
+	<R SDID="D1_C19_Folha.txt.seg" SSENT="1" TDID="D2_C19_Estadao.txt.seg" TSENT="2">
+		<RELATION TYPE="Overlap" JUDGE="todos"/>
+	</R>
+	<R SDID="D2_C19_Estadao.txt.seg" SSENT="4" TDID="D1_C19_Folha.txt.seg" TSENT="1">
+		<RELATION TYPE="Follow-up" JUDGE="todos"/>
+	</R>
+	<R SDID="D1_C19_Folha.txt.seg" SSENT="2" TDID="D2_C19_Estadao.txt.seg" TSENT="2">
+		<RELATION TYPE="Overlap" JUDGE="todos"/>
+	</R>
+	<R SDID="D1_C19_Folha.txt.seg" SSENT="2" TDID="D2_C19_Estadao.txt.seg" TSENT="3">
+		<RELATION TYPE="Overlap" JUDGE="todos"/>
+	</R>
+	<R SDID="D1_C19_Folha.txt.seg" SSENT="3" TDID="D2_C19_Estadao.txt.seg" TSENT="2">
+		<RELATION TYPE="Overlap" JUDGE="todos"/>
+	</R>
+	<R SDID="D1_C19_Folha.txt.seg" SSENT="3" TDID="D2_C19_Estadao.txt.seg" TSENT="2">
+		<RELATION TYPE="Follow-up" JUDGE="todos"/>
+	</R>
+	<R SDID="D2_C19_Estadao.txt.seg" SSENT="3" TDID="D1_C19_Folha.txt.seg" TSENT="2">
+		<RELATION TYPE="Follow-up" JUDGE="todos"/>
+	</R>
+	<R SDID="D2_C19_Estadao.txt.seg" SSENT="4" TDID="D1_C19_Folha.txt.seg" TSENT="3">
+		<RELATION TYPE="Follow-up" JUDGE="todos"/>
+	</R>
+	<R SDID="D2_C19_Estadao.txt.seg" SSENT="5" TDID="D1_C19_Folha.txt.seg" TSENT="3">
+		<RELATION TYPE="Follow-up" JUDGE="todos"/>
+	</R>
+	<R SDID="D1_C19_Folha.txt.seg" SSENT="5" TDID="D2_C19_Estadao.txt.seg" TSENT="1">
+		<RELATION TYPE="Follow-up" JUDGE="todos"/>
+	</R>
+	<R SDID="D1_C19_Folha.txt.seg" SSENT="5" TDID="D2_C19_Estadao.txt.seg" TSENT="2">
+		<RELATION TYPE="Follow-up" JUDGE="todos"/>
+	</R>
+	<R SDID="D1_C19_Folha.txt.seg" SSENT="5" TDID="D2_C19_Estadao.txt.seg" TSENT="2">
+		<RELATION TYPE="Elaboration" JUDGE="todos"/>
+	</R>
+	<R SDID="D2_C19_Estadao.txt.seg" SSENT="5" TDID="D1_C19_Folha.txt.seg" TSENT="5">
+		<RELATION TYPE="Elaboration" JUDGE="todos"/>
+	</R>
+	<R SDID="D1_C19_Folha.txt.seg" SSENT="3" TDID="D2_C19_Estadao.txt.seg" TSENT="3">
+		<RELATION TYPE="Overlap" JUDGE="todos"/>
+	</R>
+</Anotation>

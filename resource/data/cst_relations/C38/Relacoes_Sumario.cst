@@ -1,0 +1,216 @@
+<R SDID="C38_sumario_humano.txt.seg" SSENT="1" TDID="D2_C38_Estadao.txt.seg" TSENT="1">
+<RELATION TYPE="Identity" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="1" TDID="C38_sumario_humano.txt.seg" TSENT="1">
+<RELATION TYPE="Identity" JUDGE="CSTParser"/>
+</R>
+<R SDID="C38_sumario_humano.txt.seg" SSENT="1" TDID="D1_C38_Folha.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="1" TDID="C38_sumario_humano.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C38_sumario_humano.txt.seg" SSENT="2" TDID="D1_C38_Folha.txt.seg" TSENT="2">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="2" TDID="C38_sumario_humano.txt.seg" TSENT="2">
+<RELATION TYPE="elaboration" JUDGE="CSTParser"/>
+</R>
+<R SDID="C38_sumario_humano.txt.seg" SSENT="3" TDID="D1_C38_Folha.txt.seg" TSENT="5">
+<RELATION TYPE="equivalence" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="5" TDID="C38_sumario_humano.txt.seg" TSENT="3">
+<RELATION TYPE="subsumption" JUDGE="CSTParser"/>
+</R>
+<R SDID="C38_sumario_humano.txt.seg" SSENT="3" TDID="D4_C38_JB.txt.seg" TSENT="1">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="1" TDID="C38_sumario_humano.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C38_sumario_humano.txt.seg" SSENT="3" TDID="D4_C38_JB.txt.seg" TSENT="3">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="3" TDID="C38_sumario_humano.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C38_sumario_humano.txt.seg" SSENT="3" TDID="D4_C38_JB.txt.seg" TSENT="4">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="4" TDID="C38_sumario_humano.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C38_sumario_humano.txt.seg" SSENT="3" TDID="D4_C38_JB.txt.seg" TSENT="6">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="6" TDID="C38_sumario_humano.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="C38_sumario_humano.txt.seg" SSENT="1" TDID="D2_C38_Estadao.txt.seg" TSENT="7">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="7" TDID="C38_sumario_humano.txt.seg" TSENT="1">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C38_sumario_humano.txt.seg" SSENT="2" TDID="D2_C38_Estadao.txt.seg" TSENT="2">
+<RELATION TYPE="equivalence" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="2" TDID="C38_sumario_humano.txt.seg" TSENT="2">
+<RELATION TYPE="equivalence" JUDGE="CSTParser"/>
+</R>
+<R SDID="C38_sumario_humano.txt.seg" SSENT="2" TDID="D2_C38_Estadao.txt.seg" TSENT="13">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="13" TDID="C38_sumario_humano.txt.seg" TSENT="2">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C38_sumario_humano.txt.seg" SSENT="3" TDID="D2_C38_Estadao.txt.seg" TSENT="7">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="7" TDID="C38_sumario_humano.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="3" TDID="D4_C38_JB.txt.seg" TSENT="2">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="2" TDID="D1_C38_Folha.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="3" TDID="D4_C38_JB.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="3" TDID="D1_C38_Folha.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="3" TDID="D4_C38_JB.txt.seg" TSENT="5">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="5" TDID="D1_C38_Folha.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="4" TDID="D4_C38_JB.txt.seg" TSENT="5">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="5" TDID="D1_C38_Folha.txt.seg" TSENT="4">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="5" TDID="D4_C38_JB.txt.seg" TSENT="1">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="1" TDID="D1_C38_Folha.txt.seg" TSENT="5">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="5" TDID="D4_C38_JB.txt.seg" TSENT="6">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="6" TDID="D1_C38_Folha.txt.seg" TSENT="5">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="1" TDID="D2_C38_Estadao.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="1" TDID="D1_C38_Folha.txt.seg" TSENT="1">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="1" TDID="D2_C38_Estadao.txt.seg" TSENT="5">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="5" TDID="D1_C38_Folha.txt.seg" TSENT="1">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="2" TDID="D2_C38_Estadao.txt.seg" TSENT="2">
+<RELATION TYPE="elaboration" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="2" TDID="D1_C38_Folha.txt.seg" TSENT="2">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="2" TDID="D2_C38_Estadao.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="3" TDID="D1_C38_Folha.txt.seg" TSENT="2">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="3" TDID="D2_C38_Estadao.txt.seg" TSENT="4">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="4" TDID="D1_C38_Folha.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="3" TDID="D2_C38_Estadao.txt.seg" TSENT="13">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="13" TDID="D1_C38_Folha.txt.seg" TSENT="3">
+<RELATION TYPE="equivalence" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="4" TDID="D2_C38_Estadao.txt.seg" TSENT="6">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="6" TDID="D1_C38_Folha.txt.seg" TSENT="4">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="5" TDID="D2_C38_Estadao.txt.seg" TSENT="7">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="7" TDID="D1_C38_Folha.txt.seg" TSENT="5">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="1" TDID="D2_C38_Estadao.txt.seg" TSENT="7">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="7" TDID="D4_C38_JB.txt.seg" TSENT="1">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="2" TDID="D2_C38_Estadao.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="3" TDID="D4_C38_JB.txt.seg" TSENT="2">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="6" TDID="D2_C38_Estadao.txt.seg" TSENT="3">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="3" TDID="D4_C38_JB.txt.seg" TSENT="6">
+<RELATION TYPE="overlap" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="6" TDID="D2_C38_Estadao.txt.seg" TSENT="7">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="7" TDID="D4_C38_JB.txt.seg" TSENT="6">
+<RELATION TYPE="follow-up" JUDGE="CSTParser"/>
+</R>
+<R SDID="C38_sumario_humano.txt.seg" SSENT="3" TDID="D4_C38_JB.txt.seg" TSENT="1">
+<RELATION TYPE="Contradiction" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="1" TDID="C38_sumario_humano.txt.seg" TSENT="3">
+<RELATION TYPE="Contradiction" JUDGE="CSTParser"/>
+</R>
+<R SDID="C38_sumario_humano.txt.seg" SSENT="3" TDID="D4_C38_JB.txt.seg" TSENT="6">
+<RELATION TYPE="Contradiction" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="6" TDID="C38_sumario_humano.txt.seg" TSENT="3">
+<RELATION TYPE="Contradiction" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="3" TDID="D4_C38_JB.txt.seg" TSENT="2">
+<RELATION TYPE="Contradiction" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="2" TDID="D1_C38_Folha.txt.seg" TSENT="3">
+<RELATION TYPE="Contradiction" JUDGE="CSTParser"/>
+</R>
+<R SDID="D1_C38_Folha.txt.seg" SSENT="1" TDID="D2_C38_Estadao.txt.seg" TSENT="5">
+<RELATION TYPE="Contradiction" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="5" TDID="D1_C38_Folha.txt.seg" TSENT="1">
+<RELATION TYPE="Contradiction" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="2" TDID="D2_C38_Estadao.txt.seg" TSENT="3">
+<RELATION TYPE="Contradiction" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="3" TDID="D4_C38_JB.txt.seg" TSENT="2">
+<RELATION TYPE="Contradiction" JUDGE="CSTParser"/>
+</R>
+<R SDID="D4_C38_JB.txt.seg" SSENT="6" TDID="D2_C38_Estadao.txt.seg" TSENT="3">
+<RELATION TYPE="Contradiction" JUDGE="CSTParser"/>
+</R>
+<R SDID="D2_C38_Estadao.txt.seg" SSENT="3" TDID="D4_C38_JB.txt.seg" TSENT="6">
+<RELATION TYPE="Contradiction" JUDGE="CSTParser"/>
+</R>

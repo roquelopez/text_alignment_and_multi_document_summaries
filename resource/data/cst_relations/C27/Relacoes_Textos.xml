@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Anotacao [
+<!ELEMENT Anotation ( R+ ) >
+
+<!ELEMENT R ( RELATION ) >
+<!ATTLIST R SDID ( D1_C27_Folha.txt.seg | D2_C27_Estadao.txt.seg | D4_C27_JB.txt.seg ) #REQUIRED >
+<!ATTLIST R SSENT NMTOKEN #REQUIRED >
+<!ATTLIST R TDID ( D1_C27_Folha.txt.seg | D2_C27_Estadao.txt.seg | D4_C27_JB.txt.seg ) #REQUIRED >
+<!ATTLIST R TSENT NMTOKEN #REQUIRED >
+
+<!ELEMENT RELATION EMPTY >
+<!ATTLIST RELATION JUDGE ( Erick | Lucia | thiago ) #REQUIRED >
+<!ATTLIST RELATION TYPE ( Contradiction | Elaboration | Follow-up | Overlap | Subsumption ) #REQUIRED >
+] >
+<Anotation>
+	<R SDID="D2_C27_Estadao.txt.seg" SSENT="1" TDID="D1_C27_Folha.txt.seg" TSENT="1">
+		<RELATION TYPE="Overlap" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D2_C27_Estadao.txt.seg" SSENT="4" TDID="D1_C27_Folha.txt.seg" TSENT="8">
+		<RELATION TYPE="Subsumption" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D2_C27_Estadao.txt.seg" SSENT="8" TDID="D1_C27_Folha.txt.seg" TSENT="7">
+		<RELATION TYPE="Follow-up" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D2_C27_Estadao.txt.seg" SSENT="9" TDID="D1_C27_Folha.txt.seg" TSENT="7">
+		<RELATION TYPE="Follow-up" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D1_C27_Folha.txt.seg" SSENT="6" TDID="D2_C27_Estadao.txt.seg" TSENT="10">
+		<RELATION TYPE="Elaboration" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D2_C27_Estadao.txt.seg" SSENT="12" TDID="D1_C27_Folha.txt.seg" TSENT="26">
+		<RELATION TYPE="Subsumption" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D2_C27_Estadao.txt.seg" SSENT="15" TDID="D1_C27_Folha.txt.seg" TSENT="25">
+		<RELATION TYPE="Follow-up" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D1_C27_Folha.txt.seg" SSENT="33" TDID="D2_C27_Estadao.txt.seg" TSENT="15">
+		<RELATION TYPE="Follow-up" JUDGE="Lucia"/>
+	</R>
+	<R SDID="D1_C27_Folha.txt.seg" SSENT="8" TDID="D4_C27_JB.txt.seg" TSENT="5">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D4_C27_JB.txt.seg" SSENT="22" TDID="D1_C27_Folha.txt.seg" TSENT="14">
+		<RELATION TYPE="Follow-up" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C27_Folha.txt.seg" SSENT="19" TDID="D4_C27_JB.txt.seg" TSENT="16">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C27_Folha.txt.seg" SSENT="26" TDID="D4_C27_JB.txt.seg" TSENT="24">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D4_C27_JB.txt.seg" SSENT="27" TDID="D1_C27_Folha.txt.seg" TSENT="28">
+		<RELATION TYPE="Subsumption" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C27_Folha.txt.seg" SSENT="32" TDID="D4_C27_JB.txt.seg" TSENT="31">
+		<RELATION TYPE="Contradiction" JUDGE="thiago"/>
+	</R>
+	<R SDID="D1_C27_Folha.txt.seg" SSENT="32" TDID="D4_C27_JB.txt.seg" TSENT="31">
+		<RELATION TYPE="Overlap" JUDGE="thiago"/>
+	</R>
+	<R SDID="D2_C27_Estadao.txt.seg" SSENT="1" TDID="D4_C27_JB.txt.seg" TSENT="1">
+		<RELATION TYPE="Overlap" JUDGE="Erick"/>
+	</R>
+	<R SDID="D4_C27_JB.txt.seg" SSENT="4" TDID="D2_C27_Estadao.txt.seg" TSENT="3">
+		<RELATION TYPE="Elaboration" JUDGE="Erick"/>
+	</R>
+	<R SDID="D2_C27_Estadao.txt.seg" SSENT="4" TDID="D4_C27_JB.txt.seg" TSENT="5">
+		<RELATION TYPE="Overlap" JUDGE="Erick"/>
+	</R>
+	<R SDID="D2_C27_Estadao.txt.seg" SSENT="10" TDID="D4_C27_JB.txt.seg" TSENT="22">
+		<RELATION TYPE="Overlap" JUDGE="Erick"/>
+	</R>
+	<R SDID="D2_C27_Estadao.txt.seg" SSENT="12" TDID="D4_C27_JB.txt.seg" TSENT="13">
+		<RELATION TYPE="Overlap" JUDGE="Erick"/>
+	</R>
+	<R SDID="D4_C27_JB.txt.seg" SSENT="15" TDID="D2_C27_Estadao.txt.seg" TSENT="12">
+		<RELATION TYPE="Follow-up" JUDGE="Erick"/>
+	</R>
+	<R SDID="D2_C27_Estadao.txt.seg" SSENT="12" TDID="D4_C27_JB.txt.seg" TSENT="24">
+		<RELATION TYPE="Contradiction" JUDGE="Erick"/>
+	</R>
+	<R SDID="D2_C27_Estadao.txt.seg" SSENT="15" TDID="D4_C27_JB.txt.seg" TSENT="24">
+		<RELATION TYPE="Follow-up" JUDGE="Erick"/>
+	</R>
+	<R SDID="D2_C27_Estadao.txt.seg" SSENT="15" TDID="D4_C27_JB.txt.seg" TSENT="26">
+		<RELATION TYPE="Overlap" JUDGE="Erick"/>
+	</R>
+	<R SDID="D2_C27_Estadao.txt.seg" SSENT="15" TDID="D4_C27_JB.txt.seg" TSENT="27">
+		<RELATION TYPE="Overlap" JUDGE="Erick"/>
+	</R>
+	<R SDID="D2_C27_Estadao.txt.seg" SSENT="17" TDID="D4_C27_JB.txt.seg" TSENT="31">
+		<RELATION TYPE="Overlap" JUDGE="Erick"/>
+	</R>
+</Anotation>

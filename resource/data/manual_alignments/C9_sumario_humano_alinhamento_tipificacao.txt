@@ -1,0 +1,39 @@
+<align SENT="1">
+	<DOC name="D1_C9_Folha.txt.seg" SENT="1" TYPE="parcial/neutro" JUDGE="renata/renata"/>
+	<DOC name="D2_C9_Estadao.txt.seg" SENT="1" TYPE="parcial/neutro-generalizacao" JUDGE="renata/renata"/>
+	<DOC name="D3_C9_OGlobo.txt.seg" SENT="1" TYPE="parcial/neutro-outro" JUDGE="renata/renata"/>
+</align>
+
+<align SENT="2">
+	<DOC name="D1_C9_Folha.txt.seg" SENT="2" TYPE="diferente/generalizacao" JUDGE="renata/renata"/>
+	<DOC name="D1_C9_Folha.txt.seg" SENT="4" TYPE="diferente/generalizacao" JUDGE="renata/renata"/>
+	<DOC name="D2_C9_Estadao.txt.seg" SENT="1" TYPE="parcial/neutro" JUDGE="renata/renata"/>
+	<DOC name="D2_C9_Estadao.txt.seg" SENT="2" TYPE="diferente/generalizacao" JUDGE="renata/renata"/>
+	<DOC name="D2_C9_Estadao.txt.seg" SENT="3" TYPE="parcial/generalizacao" JUDGE="renata/renata"/>
+	<DOC name="D3_C9_OGlobo.txt.seg" SENT="3" TYPE="parcial/generalizacao" JUDGE="renata/renata"/>
+	<DOC name="D3_C9_OGlobo.txt.seg" SENT="9" TYPE="parcial/neutro" JUDGE="renata/renata"/>
+</align>
+
+<align SENT="3">
+	<DOC name="D1_C9_Folha.txt.seg" SENT="1" TYPE="parcial/neutro-especificacao" JUDGE="renata/renata"/>
+	<DOC name="D1_C9_Folha.txt.seg" SENT="8" TYPE="parcial/neutro-generalizacao" JUDGE="renata/renata"/>
+	<DOC name="D2_C9_Estadao.txt.seg" SENT="1" TYPE="parcial/neutro" JUDGE="renata/renata"/>
+	<DOC name="D3_C9_OGlobo.txt.seg" SENT="2" TYPE="igual/neutro" JUDGE="renata/renata"/>
+</align>
+
+<align SENT="4">
+	<DOC name="D1_C9_Folha.txt.seg" SENT="8" TYPE="parcial/neutro" JUDGE="renata/renata"/>
+	<DOC name="D2_C9_Estadao.txt.seg" SENT="11" TYPE="igual/neutro" JUDGE="renata/renata"/>
+</align>
+
+<align SENT="5">
+	<DOC name="D1_C9_Folha.txt.seg" SENT="3" TYPE="parcial/neutro" JUDGE="renata/renata"/>
+	<DOC name="D2_C9_Estadao.txt.seg" SENT="4" TYPE="parcial/neutro" JUDGE="renata/renata"/>
+	<DOC name="D3_C9_OGlobo.txt.seg" SENT="7" TYPE="parcial/neutro" JUDGE="renata/renata"/>
+</align>
+
+<align SENT="6">
+	<DOC name="D1_C9_Folha.txt.seg" SENT="12" TYPE="parcial/neutro-generalizacao_toponimia" JUDGE="renata/renata"/>
+	<DOC name="D2_C9_Estadao.txt.seg" SENT="15" TYPE="parcial/neutro-generalizacao_toponimia" JUDGE="renata/renata"/>
+	<DOC name="D3_C9_OGlobo.txt.seg" SENT="6" TYPE="parcial/neutro-generalizacao_toponimia" JUDGE="renata/renata"/>
+</align>
