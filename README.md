@@ -12,16 +12,13 @@ We used news texts, CST relations and the summaries of the CSTNews corpus for th
 
 In the "src folder", you can find the code and, in the "resource folder", the resources that were used.
 
-
 ## Execution:
 To run this program, it is necessary to have installed Python 3.2 or higher and the library BeautifulSoup 4.0.
 
 The general way to run this program is the following:
 ```
  $ python main.py option
- 
 ```
-
 Where option could be:
 - "superficial", to run the superficial approach. By default, it is selected the Word Overlap method (you can change it in the line 30 of the main.py file).
 - "deep", to run the deep approach.
@@ -31,8 +28,8 @@ Where option could be:
 ## Example:
 ```
  $ python main.py "jing"
-
 ```
+
 ## Notes:
 If you want to change the paths of the input data, in the main.py file change these options:
 
